@@ -8,10 +8,8 @@
 <link href="style.css" rel="stylesheet">
 </head>
 <body>
-<jsp:include page="header.jsp"></jsp:include>
-<section>
-<h1>골프연습장 회원관리 프로그램</h1>
-</section>
-<jsp:include page="footer.jsp"></jsp:include>
+<footer>
+footer
+</footer>
 </body>
 </html>
