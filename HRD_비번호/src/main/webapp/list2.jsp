@@ -37,7 +37,7 @@ try{
 			break;
 		case "FW":
 			position = "공격수";
-			break;
+			break; 
 		}
 		
 		%>

@@ -57,12 +57,13 @@
 			</tr>
 			
 			<td colspan="2">
-				<input type = "submit" value = "추가"></input>
+				<input type = "submit" value = "추가" onclick="check()"></input>
 				<input type = "reset" value = "취소"></input>
 			</td>
 			
 		</table>
 		</form>
 	</section> 
+	<script type="text/javascript" src="check.js"></script>
 </body>
 </html>
